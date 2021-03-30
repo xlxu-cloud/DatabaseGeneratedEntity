@@ -1,1 +1,1 @@
-# DatabaseGeneratedEntity
+# 使用idea根据数据库生成实体类
